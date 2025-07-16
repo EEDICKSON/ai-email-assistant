@@ -1,0 +1,5 @@
+gradio
+openai
+pandas
+reportlab
+python-dotenv
